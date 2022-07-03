@@ -44,7 +44,6 @@ export default {
         const row = [material, ...mtf[material]];
         this.answer.push(row);
       });
-      console.log("this.answer====>", this.answer);
     },
   },
 };

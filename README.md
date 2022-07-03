@@ -1,7 +1,7 @@
 # 17-test
 
 ## 完成測驗連結如下
-[點擊我](https://ruruman.github.io/17-pretest/)
+[點擊我 https://ruruman.github.io/17-pretest/](https://ruruman.github.io/17-pretest/)
 ## Features
 * 題目1：依據不同type顯示不同畫面
 * 題目2：有⼀份食譜列表結構如下：列表的每個元素皆為 Array, 第⼀個元素是菜名, 其他元素為這份食譜要⽤到的原料。請列出各原料能做出哪些菜，原料需按照字⺟順序排序

@@ -17,7 +17,6 @@ export default {
         ["Sandwich", "Cheese", "Bread"],
         ["Quesadilla", "Chicken", "Cheese"],
       ],
-      // mtf: {},
       answer: [],
     };
   },
